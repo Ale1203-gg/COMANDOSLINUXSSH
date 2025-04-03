@@ -1,4 +1,4 @@
-# COMANDOSLINUXSSH
+# COMANDOS LINUX SSH
 
 Para conectarte a tu servidor remoto usa el siguiente comando:  
 
